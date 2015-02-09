@@ -1,0 +1,15 @@
+{
+  "name": "blink_osx",
+  "version": "1.0.0",
+  "description": "blink middleware for os x",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "applescript": "^1.0.0",
+    "serialport": "^1.4.10"
+  }
+}
